@@ -48,5 +48,7 @@ MIT License
 
 Contact:
 GitHub:  https://github.com/salimyahuza
+
 LinkedIn: https://www.linkedin.com/in/salim-yahuza-gwarjo-15b45313b
+
 Email:  salimyahuza@gmail.com
