@@ -1,38 +1,52 @@
-# StudySprint-Tracker
-A motivational daily quote + study tracking app built for students and self‑learners by Salim Yahuza Gwarjo.
+# StudySprint Tracker 🧠📊
 
-# 📚 StudySprint – Student Study Progress Tracker
+![Logo](https://raw.githubusercontent.com/salimyahuza/StudySprint-Tracker/main/Logo.jpg)
 
-**By Salim Yahuza Gwarjo**  
-*M.Sc. Data Science • IT Educator • 3MTT Fellow*
+## About the Project
 
----
+StudySprint Tracker is a lightweight, Python-based progress tracker designed for learners at various stages — from secondary school to advanced learners. It helps track learning goals, study hours, task completion, and offers **daily motivational quotes** to keep you energized!
 
-## 🎯 Motivation
+This app is designed and built by **Salim Yahuza Gwarjo**, an M.Sc. Data Science student, ICT teacher, and education reform advocate. Salim has worked with over 3,000 students and redesigned ICT curricula for schools in Katsina State, Nigeria.
 
-As an IT teacher and M.Sc. Data Science student, I’ve seen learners struggle to stay consistent—especially without access to structured platforms. This tool combines daily motivational quotes with basic self‑tracking to help learners (secondary school & self‑learners) stay disciplined and motivated—no LMS required.
+## Motivation
 
----
+Many students struggle to stay on track due to lack of personalized guidance and motivational support. This tool solves that by combining **goal tracking** and **inspiration** in one place — especially tailored for learners with limited access to advanced tech tools.
 
-## ⚙️ Features
+## Features
 
-- 🌟 Displays a fresh motivational quote based on today’s date.
-- 🎓 Personalized for Secondary School and Advanced Learners.
-- 📝 Log study time & notes via notebook cells.
-- 📊 Generates progress charts (bar & line) instantly.
-- 💾 Data (CSV + images) saved locally and exportable.
+- 🌟 Tracks daily/weekly study goals
+- 📊 Visualizes progress with charts
+- 💬 Daily motivational quote system
+- 🖼️ Lightweight — runs on Google Colab
+- 🔗 No login, no install — easy access
 
+## How to Use
 
-## 📈 Future Plans
-1. Lightweight web GUI using Streamlit Cloud.
-2. Add user‑configurable quote lists.
-3. Simple reminder notifications via email.
+1. Open the [Colab notebook](LINK_HERE).
+2. Enter your study goals and time targets.
+3. Track your daily tasks.
+4. Get inspired by your daily quote.
+5. Watch your progress with visualizations!
 
-🔗 Contact
+## Built With
 
-GitHub: https://github.com/salimyahuza
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+- GitHub
 
+## Coming Soon
+
+- Offline version for desktops
+- Mobile-friendly UI
+- Custom notifications
+
+## License
+
+MIT License
+
+Contact:
+GitHub:  https://github.com/salimyahuza
 LinkedIn: https://www.linkedin.com/in/salim-yahuza-gwarjo-15b45313b
-
-Email: salimyahuza@gmail.com
-
+Email:  salimyahuza@gmail.com
