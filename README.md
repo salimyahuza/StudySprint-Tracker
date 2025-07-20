@@ -29,7 +29,9 @@ As an IT teacher and M.Sc. Data Science student, I’ve seen learners struggle t
 3. Simple reminder notifications via email.
 
 🔗 Contact
-Follow me on GitHub: @https://github.com/salimyahuza
+Follow me on GitHub: https://github.com/salimyahuza
+
 LinkedIn: https://www.linkedin.com/in/salim-yahuza-gwarjo-15b45313b
+
 Email: salimyahuza@gmail.com
 
