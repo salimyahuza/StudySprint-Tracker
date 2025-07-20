@@ -1,10 +1,10 @@
-# StudySprint Tracker 🧠📊
+# Student Study Tracker 🧠📊
 
 ![Logo](https://raw.githubusercontent.com/salimyahuza/StudySprint-Tracker/main/Logo.jpg)
 
 ## About the Project
 
-StudySprint Tracker is a lightweight, Python-based progress tracker designed for learners at various stages — from secondary school to advanced learners. It helps track learning goals, study hours, task completion, and offers **daily motivational quotes** to keep you energized!
+Student Study Tracker is a lightweight, Python-based progress tracker designed for learners at various stages — from secondary school to advanced learners. It helps track learning goals, study hours, task completion, and offers **daily motivational quotes** to keep you energized!
 
 This app is designed and built by **Salim Yahuza Gwarjo**, an M.Sc. Data Science student, ICT teacher, and education reform advocate. Salim has worked with over 3,000 students and redesigned ICT curricula for schools in Katsina State, Nigeria.
 
