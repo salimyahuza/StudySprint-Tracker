@@ -31,14 +31,3 @@ As an IT teacher and M.Sc. Data Science student, I’ve seen learners struggle t
 3. Copy the entire notebook content (below) into it.
 4. Commit the file.
 5. Open the notebook and click **Open in Colab**.
-
-```python
-# Example cell: display today's quote
-from datetime import datetime
-quotes = [
-    "Believe in yourself...",
-    "Small efforts lead to big achievements.",
-    # add more...
-]
-idx = datetime.now().timetuple().tm_yday % len(quotes)
-print("🌟 Daily Motivation 🌟", quotes[idx])
