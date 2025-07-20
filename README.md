@@ -21,3 +21,15 @@ As an IT teacher and M.Sc. Data Science student, I’ve seen learners struggle t
 - 📝 Log study time & notes via notebook cells.
 - 📊 Generates progress charts (bar & line) instantly.
 - 💾 Data (CSV + images) saved locally and exportable.
+
+📈 Future Plans
+Lightweight web GUI using Streamlit Cloud.
+
+Add user‑configurable quote lists.
+
+Simple reminder notifications via email.
+
+🔗 Contact
+Follow me on GitHub: @https://github.com/salimyahuza
+LinkedIn: https://www.linkedin.com/in/salim-yahuza-gwarjo-15b45313b
+
