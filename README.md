@@ -53,7 +53,8 @@ For Gmail users:
 Enable 2-Step Verification and create an App Password.
 
 python
-send_email_reminder("you@example.com", "Maths", "2025-07-25", "10:00")
+
+send_email_reminder("salimyahuza@gmail.com", "Deep Learning with PyTorch", "2025-07-25", "10:00")
 
 ## 📅 Google Calendar Integration (Disabled by Default)
 
