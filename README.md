@@ -46,6 +46,7 @@ Many students struggle to stay on track due to lack of personalized guidance and
 - GitHub
 
 🔔 Optional Reminder Features
+
 📨 Email Reminder via SMTP
 You can enable email reminders by setting up your email credentials.
 For Gmail users:
@@ -55,6 +56,7 @@ python
 send_email_reminder("you@example.com", "Maths", "2025-07-25", "10:00")
 
 📅 Google Calendar Integration (Disabled by Default)
+
 If you want to sync reminders to Google Calendar:
 1. Create a project in Google Cloud Console.
 2. Enable the Google Calendar API.
