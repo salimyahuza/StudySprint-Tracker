@@ -99,12 +99,6 @@ MIT License
 **Cohort**: 3
 
 
-## 🙏 Acknowledgements
-I want to thank our tutors for their mentorship, hardwork and patience. Their guidance enabled me to develop this app as part of the 3MTT Knowledge Showcase – July Edition. Thank you 3MTT, thank you Darey, thank you panel of Judges (competiton team) and thank you fellow leaners!
-
-
-
-
 ### Contact:
 
 **GitHub**:  https://github.com/salimyahuza
@@ -112,3 +106,8 @@ I want to thank our tutors for their mentorship, hardwork and patience. Their gu
 **LinkedIn**: https://www.linkedin.com/in/salim-yahuza-gwarjo-15b45313b
 
 **Email**:  salimyahuza@gmail.com
+
+
+
+## 🙏 Acknowledgements
+I want to thank our tutors for their mentorship, hardwork and patience. Their guidance enabled me to develop this app as part of the 3MTT Knowledge Showcase – July Edition. Thank you 3MTT, thank you Darey, thank you panel of Judges (competiton team) and thank you fellow leaners!
