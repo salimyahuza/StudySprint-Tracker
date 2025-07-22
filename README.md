@@ -52,7 +52,7 @@ You can enable email reminders by setting up your email credentials.
 For Gmail users:
 Enable 2-Step Verification and create an App Password.
 
-python
+Python code:
 
 send_email_reminder("salimyahuza@gmail.com", "Deep Learning with PyTorch", "2025-07-25", "10:00")
 
