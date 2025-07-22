@@ -71,7 +71,9 @@ add_study_reminder("Python Programming", "2025-07-23", "20:00", duration_minutes
 Install these once:
 
 python
+
 !pip install calmap
+
 !pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
 ## 📁 Files
