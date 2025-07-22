@@ -90,13 +90,13 @@ credentials.json: (User-supplied) Google credentials file.
 MIT License
 
 ## 🙋‍♂️ Author
-Name: Salim Yahuza Gwarjo
+**Name**: Salim Yahuza Gwarjo
 
-3MTT Fellowship ID: FE/23/61894589
+**3MTT Fellowship ID**: FE/23/61894589
 
-Track: Data Science
+**Track**: Data Science
 
-Cohort: 3
+**Cohort**: 3
 
 
 ### Contact:
