@@ -91,8 +91,9 @@ MIT License
 
 ## 🙋‍♂️ Author
 Salim Yahuza Gwarjo
-For the 3MTT Knowledge Showcase – July Edition
-Category: Data Science
+3MTT Fellowship ID: FE/23/61894589
+Track: Data Science
+Cohort: 3
 
 Contact:
 
