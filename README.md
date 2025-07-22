@@ -79,7 +79,9 @@ python
 ## 📁 Files
 
 study_log.csv: Stores the saved study logs.
+
 token.pickle: (If Google Calendar is used) Stores OAuth tokens.
+
 credentials.json: (User-supplied) Google credentials file.
 
 
