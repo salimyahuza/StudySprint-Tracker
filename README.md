@@ -38,16 +38,16 @@ Many students struggle to stay on track due to lack of personalized guidance and
 
 
 ## Built With
-
 - Python
 - Pandas
 - Matplotlib
 - Google Colab
 - GitHub
 
-🔔 Optional Reminder Features
+## 🔔 Optional Reminder Features
 
 📨 Email Reminder via SMTP
+
 You can enable email reminders by setting up your email credentials.
 For Gmail users:
 Enable 2-Step Verification and create an App Password.
@@ -55,7 +55,7 @@ Enable 2-Step Verification and create an App Password.
 python
 send_email_reminder("you@example.com", "Maths", "2025-07-25", "10:00")
 
-# 📅 Google Calendar Integration (Disabled by Default)
+## 📅 Google Calendar Integration (Disabled by Default)
 
 If you want to sync reminders to Google Calendar:
 1. Create a project in Google Cloud Console.
