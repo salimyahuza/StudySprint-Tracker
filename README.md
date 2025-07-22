@@ -55,7 +55,7 @@ Enable 2-Step Verification and create an App Password.
 python
 send_email_reminder("you@example.com", "Maths", "2025-07-25", "10:00")
 
-📅 Google Calendar Integration (Disabled by Default)
+# 📅 Google Calendar Integration (Disabled by Default)
 
 If you want to sync reminders to Google Calendar:
 1. Create a project in Google Cloud Console.
@@ -63,16 +63,18 @@ If you want to sync reminders to Google Calendar:
 3. Download credentials.json and place it in your notebook directory.
 4. Uncomment the line in the code cell:
 python
-# add_study_reminder("Python Programming", "2025-07-23", "20:00", duration_minutes=90)
+add_study_reminder("Python Programming", "2025-07-23", "20:00", duration_minutes=90)
 
-📦 Requirements
+## 📦 Requirements
+
 Install these once:
 
 python
 !pip install calmap
 !pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
-📁 Files
+## 📁 Files
+
 study_log.csv: Stores the saved study logs.
 token.pickle: (If Google Calendar is used) Stores OAuth tokens.
 credentials.json: (User-supplied) Google credentials file.
@@ -82,7 +84,7 @@ credentials.json: (User-supplied) Google credentials file.
 
 MIT License
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Salim Yahuza Gwarjo
 For the 3MTT Knowledge Showcase – July Edition
 Category: Data Science
