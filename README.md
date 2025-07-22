@@ -6,7 +6,7 @@
 
 Student Study Tracker is a lightweight, Python-based progress tracker designed for learners at various stages — from secondary school to advanced learners. It helps track learning goals, study hours, task completion, and offers **daily motivational quotes** to keep you energized!
 
-This app is designed and built by **Salim Yahuza Gwarjo**, an M.Sc. Data Science student, ICT teacher, and education reform advocate. Salim has worked with over 3,000 students and redesigned ICT curricula for schools in Katsina State, Nigeria.
+This app is designed and built by **Salim Yahuza Gwarjo**, an M.Sc. Data Science student (M.A.H.E. India), ICT teacher, and education reform advocate. Salim has worked with over 3,000 students and redesigned ICT curricula for schools in Katsina State, Nigeria.
 
 ## Motivation
 
@@ -90,7 +90,7 @@ credentials.json: (User-supplied) Google credentials file.
 MIT License
 
 ## 🙋‍♂️ Author
-Salim Yahuza Gwarjo
+Name: Salim Yahuza Gwarjo
 
 3MTT Fellowship ID: FE/23/61894589
 
@@ -98,10 +98,11 @@ Track: Data Science
 
 Cohort: 3
 
-Contact:
 
-GitHub:  https://github.com/salimyahuza
+### Contact:
 
-LinkedIn: https://www.linkedin.com/in/salim-yahuza-gwarjo-15b45313b
+**GitHub**:  https://github.com/salimyahuza
 
-Email:  salimyahuza@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/salim-yahuza-gwarjo-15b45313b
+
+**Email**:  salimyahuza@gmail.com
