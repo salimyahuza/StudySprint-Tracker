@@ -67,6 +67,7 @@ If you want to sync reminders to Google Calendar:
 python
 add_study_reminder("Python Programming", "2025-07-23", "20:00", duration_minutes=90)
 
+
 ## 📦 Requirements
 
 Install these once:
