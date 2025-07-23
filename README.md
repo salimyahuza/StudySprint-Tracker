@@ -46,6 +46,7 @@ Many students struggle to stay on track due to lack of personalized guidance and
 
 ## 🔔 Optional Reminder Features
 
+
 📨 Email Reminder via SMTP
 
 You can enable email reminders by setting up your email credentials.
